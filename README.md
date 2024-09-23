@@ -23,7 +23,7 @@ provide recommendations for secure coding practices.
 Use tools like static code analyzers or manual code
 review.
 
-TASK 4 - Network Intrusion Detection System
+TASK 4 - Network Intrusion Detection System (Suricata) ✔
 
 Develop a network-based intrusion detection system
 using tools like Snort or Suricata. Set up rules and alerts
